@@ -1,3 +1,8 @@
+
+
+##Decentralized Booking System
+This app has the potential to change the entire booking industry to decentralized so that no individual is given the authority to govern the whole system.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
